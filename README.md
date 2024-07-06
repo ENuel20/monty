@@ -1,2 +1,1 @@
-# monty
-To create an interpreter for monty bytecode files
+Stacks, Queues - LIFO, FIFO
